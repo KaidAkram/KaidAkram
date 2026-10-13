@@ -101,6 +101,30 @@ Technical walkthroughs and machine solves documented on [kaidakram.github.io/doj
 | **Oopsie** | Broken access control, IDOR, administrative cookie hijacking | Hack The Box |
 | **Cap** | Network packet capture analysis (PCAP), Linux capabilities abuse | Hack The Box |
 
+### Achievements
+
+<div align="center">
+  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="85" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="85" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="85" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="85" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" width="85" />
+  </a>
+</div>
+
 ---
 
 ### Contribution Activity
