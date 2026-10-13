@@ -15,23 +15,29 @@
     <a href="mailto:akram.kaid.engineer@gmail.com">
       <img src="https://img.shields.io/badge/Email-akram.kaid.engineer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/akram-kaid/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Akram%20KAID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+  </p>
+
+  <p align="center">
     <a href="https://app.hackthebox.com/profile/0xAkram" target="_blank">
       <img src="https://img.shields.io/badge/Hack%20The%20Box-0xAkram%20%7C%20Skilled-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
     </a>
+    &nbsp;
     <a href="https://kaidakram.github.io/dojo/" target="_blank">
-      <img src="https://img.shields.io/badge/Dojo-Writeups%20%26%20Research-0a0a0a?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Security Dojo" />
+      <img src="https://img.shields.io/badge/Security%20Dojo-Writeups%20%26%20Research-0a0a0a?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Security Dojo" />
     </a>
   </p>
 
-  <!-- Technical Specializations & Credentials -->
+  <!-- Technical Credentials & Focus -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Specialization-Quantum%20AI%20Security-7aa2f7?style=for-the-badge&logo=shield&logoColor=white" alt="Specialization" />
-    <img src="https://img.shields.io/badge/Track-Red%20Teamer%20%26%20DevSecOps-c41e3a?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Track" />
-    <img src="https://img.shields.io/badge/Education-ESI%20SBA%20Dual%20Degree-1a1b26?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
-    <img src="https://komarev.com/ghpvc/?username=KaidAkram&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Research-Quantum%20AI%20Security-7aa2f7?style=for-the-badge&logo=shield&logoColor=white" alt="Research" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Track-Red%20Team%20%26%20DevSecOps-c41e3a?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Track" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Education-ESI%20SBA%20Engineer-1a1b26?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
   </p>
 
 </div>
