@@ -10,7 +10,7 @@
     <em>Quantum AI Security &middot; Cloud Infrastructure Hardening &middot; Agentic Systems</em>
   </p>
 
-  <!-- Badges -->
+  <!-- Contact & Social Profiles -->
   <p align="center">
     <a href="mailto:akram.kaid.engineer@gmail.com">
       <img src="https://img.shields.io/badge/Email-akram.kaid.engineer%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -24,6 +24,13 @@
     <a href="https://kaidakram.github.io/dojo/" target="_blank">
       <img src="https://img.shields.io/badge/Dojo-Writeups%20%26%20Research-0a0a0a?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Security Dojo" />
     </a>
+  </p>
+
+  <!-- Technical Specializations & Credentials -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Specialization-Quantum%20AI%20Security-7aa2f7?style=for-the-badge&logo=shield&logoColor=white" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Track-Red%20Teamer%20%26%20DevSecOps-c41e3a?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Track" />
+    <img src="https://img.shields.io/badge/Education-ESI%20SBA%20Dual%20Degree-1a1b26?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
     <img src="https://komarev.com/ghpvc/?username=KaidAkram&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   </p>
 
@@ -101,28 +108,57 @@ Technical walkthroughs and machine solves documented on [kaidakram.github.io/doj
 | **Oopsie** | Broken access control, IDOR, administrative cookie hijacking | Hack The Box |
 | **Cap** | Network packet capture analysis (PCAP), Linux capabilities abuse | Hack The Box |
 
+---
+
 ### Achievements
 
 <div align="center">
-  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="85" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="85" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="85" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="85" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/KaidAkram?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" width="85" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" /><br />
+          <sub><b>Quickdraw</b></sub><br />
+          <sub><small>Unlocked</small></sub>
+        </a>
+      </td>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" /><br />
+          <sub><b>YOLO</b></sub><br />
+          <sub><small>Unlocked</small></sub>
+        </a>
+      </td>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" /><br />
+          <sub><b>Pull Shark</b></sub><br />
+          <sub><small>Merged PRs</small></sub>
+        </a>
+      </td>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/pair-extraordinaire-silver-a0b2b472348c.png" width="80" alt="Pair Extraordinaire" /><br />
+          <sub><b>Pair Extraordinaire</b></sub><br />
+          <sub><small>Co-authored</small></sub>
+        </a>
+      </td>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/galaxy-brain-bronze-da3c4829fd22.png" width="80" alt="Galaxy Brain" /><br />
+          <sub><b>Galaxy Brain</b></sub><br />
+          <sub><small>Accepted Answers</small></sub>
+        </a>
+      </td>
+      <td align="center" width="16%">
+        <a href="https://github.com/KaidAkram?tab=achievements">
+          <img src="https://github.githubassets.com/assets/starstruck-gold-a35e077693cc.png" width="80" alt="Starstruck" /><br />
+          <sub><b>Starstruck</b></sub><br />
+          <sub><small>Starred Repos</small></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
